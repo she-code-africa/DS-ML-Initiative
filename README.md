@@ -6,6 +6,6 @@ This is the repository for all DS/ML tasks for both Beginners and Intermediates.
 - Complete the task assigned to your current level
 - Upload your submission or completed task/project into the respective folder. E.g: Level 1 --> Intermediate
 - Click on create a Pull request
-- If you are in BEGINNERS, assign Success Ologunsua as a reviewer. If you are in INTERMEDIATE, assign Sharon Ibejih as a reviewer. This way, we can get notified. 
-- PLEASE DO NOT MERGE!
-- You will get feedback thereafter.
+- If you are in BEGINNERS, assign Success Ologunsua (__TheSussex__) as a reviewer. If you are in INTERMEDIATE, assign Sharon Ibejih (__sharonibejih__) as a reviewer. This way, we can get notified. 
+- __PLEASE DO NOT MERGE!__
+_You will get feedback thereafter._
