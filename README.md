@@ -2,10 +2,9 @@
 This is the repository for all DS/ML tasks for both Beginners and Intermediates.
 
 ## Getting Started:
-- Fork this repo (Click on Fork at the top right of your screen)
+- Fork this repo into your GitHub account (Click on Fork at the top right of your screen)
 - Complete the task assigned to your current level
-- Upload your submission or completed task/project into the respective folder. E.g: Level 1 --> Intermediate
-- Click on create a Pull request
-- If you are in BEGINNERS, assign Success Ologunsua (__TheSussex__) as a reviewer. If you are in INTERMEDIATE, assign Sharon Ibejih (__sharonibejih__) as a reviewer. This way, we can get notified. 
-- __PLEASE DO NOT MERGE!__
+- Upload your submission or completed task into the right folder of the forked repo in your GitHub account. E.g: Level 1 --> Intermediate folder
+- Submit the GitHub link to your completed project on the Google sheet. On the sheet, the link should be in the same row as your name and under the right column. 
+
 _You will get feedback thereafter._
