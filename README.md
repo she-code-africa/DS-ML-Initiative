@@ -8,3 +8,5 @@ This is the repository for all DS/ML tasks for both Beginners and Intermediates.
 - Submit the GitHub link to your completed project on the Google sheet. On the sheet, the link should be in the same row as your name and under the right column. 
 
 _You will get feedback thereafter._
+
+_** Kindly ignore the last two steps above if your level submission method (as should be stated in the Google Sheet) doesn't require a GitHub link._
