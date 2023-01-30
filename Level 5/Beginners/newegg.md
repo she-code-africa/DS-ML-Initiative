@@ -1,4 +1,4 @@
-# Web_scrapping
+Web_scrapping
 The internet is full of huge amount of data which can be used for different purposes. 
 To collect this data we need to know how to scrape data from a website.
  Web Scrapping is the process of extracting and collecting data
